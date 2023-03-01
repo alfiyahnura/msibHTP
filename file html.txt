@@ -1,6 +1,8 @@
+Pengertian HTML
 HTML adalah bahasa standar pemrogaman yang digunakan untuk membuat halaman website, yang diakses melalui internet. Singkatan dari "Hypertext Markup Language" atau "bahasa markup". Dilansir Techterms, "Hypertext" mengacu pada hyperlink yang mungkin terdapat dalam halaman HTML.
 Dilansir Techterms, "Hypertext" mengacu pada hyperlink yang mungkin terdapat dalam halaman HTML. Bahasa markup ini mengacu pada cara tag yang digunakan, untuk menentukan tata letak halaman dan elemen di dalam halaman.
 HTML disusun berdasar kode dan simbol tertentu, yang dimasukkan dalam sebuah file atau dokumen. Sehingga bisa ditampilkan pada layar komputer. Dan bisa dipahami oleh para pengguna internet.
+
 Fungsi HTML :
 Fungsi utama HTML, untuk membuat suatu halaman website yang bisa dibaca dan dipahami dengan lebih mudah. Seluruh laman website yang ada di internet, dibuat dengan HTML dan tak ada pengecualian.
 Menandai teks pada suatu laman. HTML ditulis pada suatu halaman dokumen dengan tag atau simbol tertentu. Simbol dan tag tersebut akan membuat tampilan teks menjadi tebal, miring, bergaris tebal dan sebagainya. Semisal jika membuat suatu teks menjadi teks miring atau italic, di laman HTML harus ditulis kode
