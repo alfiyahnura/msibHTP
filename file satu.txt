@@ -1,2 +1,3 @@
+Pengertian CSS
 CSS adalah bahasa Cascading Style Sheet dan biasanya digunakan untuk mengatur tampilan elemen yang tertulis dalam bahasa markup, seperti HTML. CSS berfungsi untuk memisahkan konten dari tampilan visualnya di situs
 CSS (Cascading Style Sheet) merupakan salah satu bahasa pemrograman web yang digunakan untuk mengendalikan beberapa komponen dalam sebuah web sehingga akan lebih terstruktur dan seragam. Penggunaan CSS ini tidak lepas dari kode-kode HTML. Ibarat kata kita adalah Arsitek yang akan membangun sebuah rumah, maka paling tidak kita harus mengetahui secara pasti mulai dari ukuran tanahnya. Kemudian seberapa luas rumah yang ingin kita bangun, berapa buah dan berapa luas kamar, ruang tamu, beranda, serta ruang utamanya.
