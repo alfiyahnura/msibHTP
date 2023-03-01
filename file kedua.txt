@@ -1,0 +1,8 @@
+GitHub adalah sebuah website dan layanan berbasis cloud bagi para developer untuk menyimpan dan mengelola kode, serta mendokumentasikan dan mengontrol perubahannya.
+Perintah Dasar Git
+1. Git Config dgunakan untuk mengatur konfigurasi tertentu sesuai dengan keinginan pengguna.
+2. Git Init digunakan untuk membuat repositori baru.
+3. Git Add digunakan untuk menambahkan file ke index.
+4. Git Clone digunakan untuk chechout repositori.
+5. Git Commit digunakan untuk melakukan commit pada perubahan ke head.
+Dll
