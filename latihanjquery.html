@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Latihan Pemanggilan Jquery</title>
+    <script type="text/javascript" src="js/jquery-3.6.4.js"></script>
+</head>
+<body>
+
+    <script>
+        $( document ).ready(function() {
+            $("input").click(function(){
+                alert("Selamat Belajar Jquery")
+            });
+            $("img").click(function(){
+                $("img").hide(900)
+            });
+
+            $("#panggil_id").css("color", "orange");
+
+            $(".panggil_clas").css("color", "blue");
+
+            $("p").slideDown(300);
+
+        });
+    </script>
+    <h3 id="panggil_id">Selamat Belajar Jquery menggunakan pemanggilan ID</h3>
+    <h3 class="panggil_clas">Selamat Belajar Jquery menggunakan pemanggilan class</h3>
+    
+    <img src="img/TNI.jpg">
+    <input type="submit" value="salam" />
+</body>
+</html>
