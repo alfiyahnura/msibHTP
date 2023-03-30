@@ -21,20 +21,25 @@ class Pegawai{
         switch($jabatan){
             case 'Manager': $gapok = 15000000; break;
             case 'Asisten Manager': $gapok = 10000000; break;
-            case 'Kepala Bagian': $gapok = 7000000; break;
-            case 'Staff': $gapok = 5000000; break;
+            case 'Kepala Bagian ': $gapok = 7000000; break;
+            case 'Staff ': $gapok = 5000000; break;
             default: $gapok;
         }
         return $gapok;
     }
     public function cetak(){
-        echo 'NIP Pegawai'.$this->nip;
-        echo 'Nama Pegawai'.$this->nama;
-        echo 'Jabatan'.$this->jabatan;
-        echo 'Agama'.$this->agama;
-        echo 'Status'.$this->status;
-        echo 'Gaji Pokok '.$this->setGajiPokok($this->jabatan);
+        echo 'NIP Pegawai '.$this->nip;
+        echo '<br>Nama Pegawai '.$this->nama;
+        echo '<br>Jabatan '. $this->jabatan;
+        echo '<br>Agama '.$this->agama;
+        echo '<br>Status '.$this->status;
+        echo '<br>Gaji Pokok Rp.'.number_format($this->setGajiPokok($this->jabatan),0,',','.');
         echo '<hr>';
+
     }
+
 }
+
+
+
 ?>
